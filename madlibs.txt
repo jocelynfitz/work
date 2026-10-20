@@ -10,3 +10,15 @@ adjective (descriptor):sloppy
 noun (person/place/thing):pizza
 adjective (descriptor):slow
 noun (person/place/thing):mcdonalds
+adjective (descriptor): smelly
+adjective (descriptor): 
+plural noun (person/place/thing):
+a number:
+plural noun (person/place/thing):
+adjective (descriptor): 
+proper noun (name of a person/place/thing):
+verb (action word) ending in -ing:
+adjective (descriptor):
+noun (person/place/thing): dog
+adjective (descriptor):
+noun (person/place/thing):
