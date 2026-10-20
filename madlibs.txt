@@ -1,12 +1,12 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+Adjective (descriptor):silly 
+adjective (descriptor): sad
+plural noun (person/place/thing):bus
+a number:2341
+plural noun (person/place/thing):james charles
+adjective (descriptor): fighter
+proper noun (name of a person/place/thing):ash trivino
+verb (action word) ending in -ing:boxing
+adjective (descriptor):sloppy
+noun (person/place/thing):pizza
+adjective (descriptor):slow
+noun (person/place/thing):mcdonalds
